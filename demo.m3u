@@ -330,11 +330,10 @@ CCTV6,http://183.66.196.98:9901/tsfile/live/0006_1.m3u8
 CCTV6,http://61.169.37.218:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV6,http://cfss.cc/api/ysp/cctv6.m3u8
 
-CCTV8,http://sxz.zccatv.cn:9901/tsfile/live/0008_1.m3u8
+CCTV8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
 CCTV8,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
 CCTV8,http://183.66.196.98:9901/tsfile/live/0008_1.m3u8
 CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
-CCTV8,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=
 CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
 CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=
 CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv8/350/index.m3u8?&encrypt=
@@ -348,12 +347,10 @@ CCTV8,http://cfss.cc/api/ysp/cctv8.m3u8
 
 CHC动作电影,http://sxz.zccatv.cn:9901/tsfile/live/1078_1.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,http://49.235.110.121:9090/daili/小果.php?id=wqCHCdzdyH265_4000&Cf.m3u8
 CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CHC家庭影院,http://sxz.zccatv.cn:9901/tsfile/live/1077_1.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://49.235.110.121:9090/daili/小果.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
 CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 
 CHC高清电影,http://sxz.zccatv.cn:9901/tsfile/live/1079_1.m3u8
